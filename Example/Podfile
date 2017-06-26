@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ProfileModule_Example' do
+  pod 'ProfileModule', :path => '../'
+
+  target 'ProfileModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

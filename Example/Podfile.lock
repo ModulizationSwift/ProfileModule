@@ -1,0 +1,16 @@
+PODS:
+  - ProfileModule (0.1.0)
+
+DEPENDENCIES:
+  - ProfileModule (from `../`)
+
+EXTERNAL SOURCES:
+  ProfileModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProfileModule: '096deba30553235419e1de4d77e969a916b9b54e'
+
+PODFILE CHECKSUM: fd4f087c352cac537e209928b24478f0dfa994e6
+
+COCOAPODS: 1.2.1
